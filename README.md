@@ -7,7 +7,7 @@ This version is based on Open-Source Modules and Tools, thus it is neither provi
 ## 1. Clone this Directory 
 
 ```
-git clone 
+git clone https://github.com/hkarhani/fslimbo.git
 ```
 ## 2. Edit fsconfig.yaml file: 
 
